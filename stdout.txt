@@ -1,0 +1,349 @@
+Found "C:\Users\Maria Muniz\codenation\java-9\.mvn\wrapper\maven-wrapper.jar"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.challenge:spring-data-ddl >--------------------
+[INFO] Building spring-data-ddl 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:resources (default-resources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ spring-data-ddl ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:testResources (default-testResources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Maria Muniz\codenation\java-9\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ spring-data-ddl ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 12 source files to C:\Users\Maria Muniz\codenation\java-9\target\test-classes
+[INFO] /C:/Users/Maria Muniz/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: C:\Users\Maria Muniz\codenation\java-9\src\test\java\com\challenge\suite\ClassTest.java uses unchecked or unsafe operations.
+[INFO] /C:/Users/Maria Muniz/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ spring-data-ddl ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.challenge.suite.ChallengeTestSuite
+15:17:56.085 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.212 [main] INFO org.reflections.Reflections - Reflections took 127 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.324 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.339 [main] INFO org.reflections.Reflections - Reflections took 15 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.349 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.353 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.364 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.370 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.376 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.384 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.392 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.400 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.404 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.410 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.420 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.425 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.440 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.448 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.452 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.459 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.463 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.469 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.477 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.481 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.481 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.492 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.492 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.508 [main] INFO org.reflections.Reflections - Reflections took 16 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.539 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.555 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.574 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.580 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.587 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.593 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.599 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.610 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.617 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.624 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.635 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.643 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.643 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.653 [main] INFO org.reflections.Reflections - Reflections took 10 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.659 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.666 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.672 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.678 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.681 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.685 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.692 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.699 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.702 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.702 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.702 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.719 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.726 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.745 [main] INFO org.reflections.Reflections - Reflections took 17 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.747 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.757 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.759 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.765 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.776 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.782 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.786 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.794 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.798 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.803 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.808 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.814 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.818 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.827 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.829 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.835 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.837 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.844 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.846 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.852 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.858 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.866 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.870 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.880 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.888 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.896 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.900 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.909 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.911 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.917 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.920 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.928 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.932 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.942 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.945 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.951 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.958 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.964 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.969 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.980 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.982 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.987 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.990 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:56.995 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:56.997 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.004 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.008 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.014 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.017 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.025 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.029 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.041 [main] INFO org.reflections.Reflections - Reflections took 11 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.044 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.050 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.053 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.060 [main] INFO org.reflections.Reflections - Reflections took 7 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.065 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.071 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.075 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.080 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.083 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.089 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.092 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.096 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.098 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.102 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.105 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.109 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.112 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.117 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.119 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.125 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.129 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.134 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.136 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.141 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.144 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.149 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.151 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.160 [main] INFO org.reflections.Reflections - Reflections took 9 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.163 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.174 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.177 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.182 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.184 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.190 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.192 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.197 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.199 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.205 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.208 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.212 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.214 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.223 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.225 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.231 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.234 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.240 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.249 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.254 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.257 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.262 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.265 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.270 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.273 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.277 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.279 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.286 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.291 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.295 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.297 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.302 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.305 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.310 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.312 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.317 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.319 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.324 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.326 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.330 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.332 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.336 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.338 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.346 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.348 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.351 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.353 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.358 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.360 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.366 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.375 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.383 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.386 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.391 [main] INFO org.reflections.Reflections - Reflections took 5 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.392 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.396 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.398 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.405 [main] INFO org.reflections.Reflections - Reflections took 6 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.407 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.411 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.413 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.416 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.418 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.422 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.424 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.428 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+15:17:57.429 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/C:/Users/Maria%20Muniz/codenation/java-9/target/classes/
+15:17:57.433 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 5 keys and 19 values 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.58 s - in com.challenge.suite.ChallengeTestSuite
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  9.349 s
+[INFO] Finished at: 2020-03-03T15:17:57-03:00
+[INFO] ------------------------------------------------------------------------
